@@ -1,2 +1,2 @@
-ip=219.100.37.242
+ip=180.42.150.49
 url=https://raw.githubusercontent.com/irf1404/Directadmin/master/license.key
